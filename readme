@@ -1,0 +1,26 @@
+# ⚡ Study Notes Hub (Bitcoin DeFi Edition)
+
+A high-performance, decentralized-style local knowledge dashboard built with **Streamlit**. This app automatically syncs, manages, and renders instructor notes from GitHub using a cutting-edge "Bitcoin DeFi" aesthetic (True Void backgrounds, glowing orange gradients, and glass morphism).
+
+## 🚀 Core Features
+
+* **🔴 Live Network Sync:** Automatically pings the remote GitHub repository. If a new commit is detected, a dynamic red dot indicator alerts you to sync the network state.
+* **🛡️ Local Containment:** Safely clones and maintains study materials in a localized `instructor_notes` directory without polluting your root folder.
+* **🧠 3-Tab God-Tier Viewer:**
+  * **📖 Document Render:** Beautifully parses Markdown, Python, JS, and C++ files natively.
+  * **🤖 AI Logic Extraction:** Automatically scans files for core structures (`def`, `class`) and Markdown headers to generate instant architectural summaries.
+  * **📌 Encrypted Side-Notes:** A localized text area to save private study parameters and memorandums for any specific file.
+* **🌌 Bitcoin DeFi UI:** Completely overhauled frontend utilizing CSS injection for pill-shaped gradient buttons, glowing borders, custom typography (*Space Grotesk & JetBrains Mono*), and a deep space cryptographic vibe.
+
+## 🛠️ Prerequisites
+
+Before initializing the node, ensure you have the following installed on your machine:
+* [Python 3.8+](https://www.python.org/downloads/)
+* [Git](https://git-scm.com/downloads)
+
+## ⚙️ Installation & Setup
+
+**1. Clone this repository (or download the source code):**
+```bash
+git clone https://github.com/YOUR_USERNAME/Study-Notes-Hub.git
+cd Study-Notes-Hub
